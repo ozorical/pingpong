@@ -32,10 +32,3 @@ This is a simple two-player Ping Pong game built with Python using the Pygame li
     - **Player 1** (Left Paddle): `W` (Up) and `S` (Down)
     - **Player 2** (Right Paddle): `Arrow Up` and `Arrow Down`
 3. First to score wins the point, the ball resets, and the game continues.
-
-## File Structure
-- `main.py`: Handles the game loop and events.
-- `game.py`: Controls the game logic and rendering.
-- `paddle.py`: Contains paddle movement and drawing logic.
-- `ball.py`: Manages ball physics and collisions.
-- `settings.py`: Contains game constants like dimensions, colors, and paddle size.
